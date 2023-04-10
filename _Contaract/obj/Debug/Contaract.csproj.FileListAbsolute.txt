@@ -1,0 +1,6 @@
+E:\WinFormsApp\Contaract\bin\Debug\Contaract.dll
+E:\WinFormsApp\Contaract\bin\Debug\Contaract.pdb
+E:\WinFormsApp\Contaract\obj\Debug\Contaract.csproj.AssemblyReference.cache
+E:\WinFormsApp\Contaract\obj\Debug\Contaract.csproj.CoreCompileInputs.cache
+E:\WinFormsApp\Contaract\obj\Debug\Contaract.dll
+E:\WinFormsApp\Contaract\obj\Debug\Contaract.pdb

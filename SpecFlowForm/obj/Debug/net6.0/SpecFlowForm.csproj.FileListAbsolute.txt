@@ -1,0 +1,5 @@
+E:\WinFormsApp\SpecFlowForm\obj\Debug\net6.0\SpecFlowForm.csproj.AssemblyReference.cache
+E:\WinFormsApp\SpecFlowForm\obj\Debug\net6.0\SpecFlowForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\WinFormsApp\SpecFlowForm\obj\Debug\net6.0\SpecFlowForm.AssemblyInfoInputs.cache
+E:\WinFormsApp\SpecFlowForm\obj\Debug\net6.0\SpecFlowForm.AssemblyInfo.cs
+E:\WinFormsApp\SpecFlowForm\obj\Debug\net6.0\SpecFlowForm.csproj.CoreCompileInputs.cache

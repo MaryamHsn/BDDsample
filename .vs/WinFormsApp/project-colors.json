@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffa449be-3b5b-4f1b-b03f-95096868060c": {
+      "ProjectGuid": "ffa449be-3b5b-4f1b-b03f-95096868060c",
+      "DisplayName": "WinFormsApp",
+      "ColorIndex": 0
+    },
+    "a089a984-4da6-406d-aef6-2be33fa3b05c": {
+      "ProjectGuid": "a089a984-4da6-406d-aef6-2be33fa3b05c",
+      "DisplayName": "SpecFlowForm",
+      "ColorIndex": 1
+    },
+    "c1bf2bd0-6174-4bd3-96cc-04b2c715cc77": {
+      "ProjectGuid": "c1bf2bd0-6174-4bd3-96cc-04b2c715cc77",
+      "DisplayName": "TestProject",
+      "ColorIndex": 2
+    },
+    "0bcd4a20-8e8f-40fc-9565-d5e0d327e908": {
+      "ProjectGuid": "0bcd4a20-8e8f-40fc-9565-d5e0d327e908",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "21bea84f-eaf9-4137-8d45-4c47657c4e19": {
+      "ProjectGuid": "21bea84f-eaf9-4137-8d45-4c47657c4e19",
+      "DisplayName": "Contaract",
+      "ColorIndex": 4
+    },
+    "d2e9581d-83a8-4ba9-9dc1-620c061df122": {
+      "ProjectGuid": "d2e9581d-83a8-4ba9-9dc1-620c061df122",
+      "DisplayName": "Appium",
+      "ColorIndex": 5
+    },
+    "60df4834-f4b2-4ddd-988b-c8bd8a7859b8": {
+      "ProjectGuid": "60df4834-f4b2-4ddd-988b-c8bd8a7859b8",
+      "DisplayName": "SpecFlowForm",
+      "ColorIndex": 6
+    },
+    "aa065582-88e1-4da9-b26b-d9a309eec0eb": {
+      "ProjectGuid": "aa065582-88e1-4da9-b26b-d9a309eec0eb",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 7
+    },
+    "37de97b6-a258-4d85-9c4a-87c0bc0f1e7f": {
+      "ProjectGuid": "37de97b6-a258-4d85-9c4a-87c0bc0f1e7f",
+      "DisplayName": "SpecFlow",
+      "ColorIndex": 8
+    },
+    "b3ddcdf9-8413-4021-b956-065668d8931a": {
+      "ProjectGuid": "b3ddcdf9-8413-4021-b956-065668d8931a",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 9
+    },
+    "936db15a-1ec8-4fb2-9553-73558eb6ab59": {
+      "ProjectGuid": "936db15a-1ec8-4fb2-9553-73558eb6ab59",
+      "DisplayName": "AppiumConfiguration",
+      "ColorIndex": 10
+    },
+    "6192c9cb-270a-4f54-bd98-d257eaabf6b2": {
+      "ProjectGuid": "6192c9cb-270a-4f54-bd98-d257eaabf6b2",
+      "DisplayName": "SpecFlowForm",
+      "ColorIndex": 11
+    },
+    "de8a1403-94d3-4813-86ac-cdeb5b1dd1a7": {
+      "ProjectGuid": "de8a1403-94d3-4813-86ac-cdeb5b1dd1a7",
+      "DisplayName": "Contracts",
+      "ColorIndex": 12
+    },
+    "30e0f9a7-0f86-4b31-89f4-0c6860f7ef8b": {
+      "ProjectGuid": "30e0f9a7-0f86-4b31-89f4-0c6860f7ef8b",
+      "DisplayName": "SpecFlow",
+      "ColorIndex": 13
+    },
+    "23a23484-3275-4c88-8b56-ae99ae1c91bf": {
+      "ProjectGuid": "23a23484-3275-4c88-8b56-ae99ae1c91bf",
+      "DisplayName": "Flows",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

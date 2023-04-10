@@ -1,0 +1,9 @@
+E:\WinFormsApp\Flows\bin\Debug\Flows.dll
+E:\WinFormsApp\Flows\bin\Debug\Flows.pdb
+E:\WinFormsApp\Flows\bin\Debug\Contracts.dll
+E:\WinFormsApp\Flows\bin\Debug\Contracts.pdb
+E:\WinFormsApp\Flows\obj\Debug\Flows.csproj.AssemblyReference.cache
+E:\WinFormsApp\Flows\obj\Debug\Flows.csproj.CoreCompileInputs.cache
+E:\WinFormsApp\Flows\obj\Debug\Flows.csproj.CopyComplete
+E:\WinFormsApp\Flows\obj\Debug\Flows.dll
+E:\WinFormsApp\Flows\obj\Debug\Flows.pdb

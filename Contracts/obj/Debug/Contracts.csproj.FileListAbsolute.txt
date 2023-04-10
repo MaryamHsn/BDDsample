@@ -1,0 +1,6 @@
+E:\WinFormsApp\Contracts\bin\Debug\Contracts.dll
+E:\WinFormsApp\Contracts\bin\Debug\Contracts.pdb
+E:\WinFormsApp\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+E:\WinFormsApp\Contracts\obj\Debug\Contracts.dll
+E:\WinFormsApp\Contracts\obj\Debug\Contracts.pdb
+E:\WinFormsApp\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
